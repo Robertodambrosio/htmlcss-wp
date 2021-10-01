@@ -184,4 +184,12 @@ ul li a {
 
 /* footer */
 
+footer {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
 
+.heart {
+    color: red;
+}
